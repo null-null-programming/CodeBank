@@ -1,3 +1,3 @@
 # CodeBank
 
-捨てるはずだったコードを、ここに貯めていきます。
+I save training-code here.
